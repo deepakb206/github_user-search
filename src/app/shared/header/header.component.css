@@ -1,0 +1,5 @@
+.fixedHeader {
+  position: absolute;
+  top: 0px;
+  width: -webkit-fill-available;
+}

@@ -1,0 +1,14 @@
+.content {
+  position: absolute;
+  top: 10%;
+  bottom: 10%;
+  left: 5%;
+  right: 5%;
+  overflow: auto;
+  padding: 1%;
+}
+
+.example-container {
+  display: flex;
+  flex-direction: column;
+}

@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Additional dependencies used
+
+Angular Material - `https://material.angular.io`
+
+## API used to get List of github users
+
+API - https://api.github.com/users
+
+## API used to get all the repositories associated with the user
+
+API - https://api.github.com/users/{{login}}/repos
